@@ -2,6 +2,9 @@
 ### Professional Thesis – Diane Dongmo Feulefack  
 ### INP ENSIMAG & GEM
 
+📄 **Download the Full Thesis (PDF)**  
+[`Feulefack_Diane_Thèse_IA_TestLogiciels_2025.pdf`](./Feulefack_Diane_Thèse_IA_TestLogiciels_2025.pdf)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17718257.svg)](https://doi.org/10.5281/zenodo.17718257)
 
 ---
