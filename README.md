@@ -1,6 +1,6 @@
 # AI Integration in Software Testing: Benefits, Limitations and Organisational Impacts  
 ### Professional Thesis – Diane Dongmo Feulefack  
-### Grenoble Ecole de Management – MSc Big Data: Analysis, Management & Responsible Valorisation
+### INP ENSIMAG & GEM
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17718257.svg)](https://doi.org/10.5281/zenodo.17718257)
 
