@@ -54,7 +54,7 @@ The thesis provides detailed real-world analyses of AI adoption in testing:
 
 ---
 
-##  Survey Dataset (41 Respondents)
+##  Survey Dataset (41 Respondents over 100)
 
 The questionnaire, shared on LinkedIn, explores:
 - Knowledge & usage of AI in testing  
